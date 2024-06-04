@@ -1,0 +1,11 @@
+requests
+pandas
+openpyxl
+xlsxwriter
+python-dotenv
+geopy
+mvg
+ipykernel
+jupyter
+notebook
+gradio
